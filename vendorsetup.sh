@@ -1,3 +1,3 @@
-add_lunch_combo aosp_titan-userdebug
-add_lunch_combo aosp_titan-user
-add_lunch_combo aosp_tian-eng
+add_lunch_combo io_titan-userdebug
+add_lunch_combo io_titan-user
+add_lunch_combo io_titan-eng
